@@ -1,0 +1,9 @@
+[Interface]
+PrivateKey = aC/dX9/+XgQe44BhpIGovGgQQR+8jZn8QO4G88J1gkU=
+Address = 192.168.146.135
+DNS = 127.0.0.53
+
+[Peer]
+PublicKey = jbdUNfgwNRb53uxtiIqkyTYOyc5Os1TbUOwssWWnOmY=
+AllowedIps = 0.0.0.0/0, ::/0
+Endpoint = 35.231.229.72:51194
