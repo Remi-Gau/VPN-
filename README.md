@@ -11,3 +11,51 @@ Pour ce projet :
 * une maquette 
 * Une gestion firewall
 * Sécurité 
+
+## Présentation
+> La méthode d'application des capacités vues en cours pour ce projet.
+
+## Sommaire
+* Explications
+* Définitions
+* Mise en place
+* Démarrage du projet 
+* Difficultés rencontrées
+* Fin du projet
+* Supports utilisés
+* Bibliographie
+* Remerciements
+
+
+## Explications
+
+> L'utilisation d'outils
+
+## Définitions
+
+> OpenVPN Firewall VPN Raspberry (définitions)
+
+## Mise en place
+
+> OpenVPN Firewall VPN Raspberry 
+
+
+## Démarrage du projet 
+
+> Utilisation de machines virtuelles (versions linux utilisées)
+
+## Difficultés rencontrées
+
+> Raspberry + routeur de l'école inexploitable pourla redirection VPN
+
+## Fin du projet 
+
+> Solutions trouvées 
+
+## Supports utilisés
+
+> Diapo + vidéo + Mkdocs + raspberry
+
+## Bibliographie
+
+## Remerciements
