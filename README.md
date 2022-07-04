@@ -1,4 +1,18 @@
 # TP Infrastructure et réseau 
+
+- [TP Infrastructure et réseau](#tp-infrastructure-et-réseau)
+    - [Choix du projet :](#choix-du-projet-)
+    - [Présentation](#présentation)
+    - [Sommaire](#sommaire)
+    - [Explications](#explications)
+    - [Définitions](#définitions)
+    - [Mise en place](#mise-en-place)
+    - [Démarrage du projet](#démarrage-du-projet)
+    - [Difficultés rencontrées](#difficultés-rencontrées)
+    - [Fin du projet](#fin-du-projet)
+    - [Supports utilisés](#supports-utilisés)
+    - [Bibliographie](#bibliographie)
+    - [Remerciements](#remerciements)
  ## Choix du projet :
 
 > Pour ce projet nous avons décidé de se diriger vers le projet VPN.
